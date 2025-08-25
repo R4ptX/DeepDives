@@ -46,7 +46,7 @@ Every writeup follows a standardized framework to ensure consistency:
 
 ### Example Writeup
 
-See [`CVE-XXXX-YYYY`](https://github.com/0x5t/DeepDives/tree/main/CVE-XXXX-YYYY) for a sample breakdown.<br>
+See [`CVE-XXXX-YYYY`](https://github.com/R4ptX/DeepDives/tree/main/CVE-XXXX-YYYY) for a sample breakdown.<br>
 Each writeup is self-contained and includes links to external advisories or research.
 
 ---
@@ -74,15 +74,9 @@ Contributions and peer reviews are welcome. If you would like to:
 Please open an issue or a pull request following the contribution guidelines.
 
 ---
-
-### Contact
-
-* **Discord**: [0x5t](https://discord.com/users/1338605510844354687)
-* **Website**: [Blog](https://0x5t.raptx.org)
----
-[contributors-shield]: https://img.shields.io/github/contributors/0x5t/DeepDives?style=for-the-badge
-[contributors-url]: https://github.com/0x5t/DeepDives/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/0x5t/DeepDives?style=for-the-badge
-[forks-url]: https://github.com/0x5t/DeepDives/network/members
-[stars-shield]: https://img.shields.io/github/stars/0x5t/DeepDives?style=for-the-badge
-[stars-url]: https://github.com/0x5t/DeepDives/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/R4ptX/DeepDives?style=for-the-badge
+[contributors-url]: https://github.com/R4ptX/DeepDives/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/R4ptX/DeepDives?style=for-the-badge
+[forks-url]: https://github.com/R4ptX/DeepDives/network/members
+[stars-shield]: https://img.shields.io/github/stars/R4ptX/DeepDives?style=for-the-badge
+[stars-url]: https://github.com/R4ptX/DeepDives/stargazers
