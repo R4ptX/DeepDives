@@ -44,13 +44,6 @@ Every writeup follows a standardized framework to ensure consistency:
 
 ---
 
-### Example Writeup
-
-See [`CVE-XXXX-YYYY`](https://github.com/R4ptX/DeepDives/tree/main/CVE-XXXX-YYYY) for a sample breakdown.<br>
-Each writeup is self-contained and includes links to external advisories or research.
-
----
-
 ### Disclaimer
 
 > This repository contains **real-world exploit code and proof-of-concepts** strictly for **educational and research purposes**.  
